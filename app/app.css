@@ -1,0 +1,30 @@
+.phone_image{
+    width: 100%;
+    height: 15rem;
+    object-fit: cover;
+}
+.img-thumbnail{
+    height: 150px ;
+}
+
+
+.phone_detail_specification  span{
+    color: rgb(98, 98, 216);
+    font-weight: bold;
+  }
+  
+  .phone_detail_specification dt {
+    font-weight: bold;
+  }
+  
+  .specs > li {
+    display: inline-block;
+    vertical-align: top;
+    width: 200px;
+  }
+  
+  .specs > li > span {
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+  
